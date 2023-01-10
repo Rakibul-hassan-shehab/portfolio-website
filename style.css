@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Moon+Dance&family=Raleway:ital,wght@1,100&family=Roboto:wght@300&family=Rowdies:wght@300&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Bakbak One', cursive;
+}
+.cat{
+    height: 800px;
+    background-image: url(person.png);
+    background-repeat: no-repeat;
+
+}
+.docu{
+    margin: 200px 40px 0px 700px;
+}
+.docu h1{
+color: blue;
+}
+.docu p{
+    color: red;
+    padding-right: 300px;
+    
+}
+.docu a{
+    border: 1px solid rgb(49, 9, 228);
+    border-radius: 3px;
+    background-color: rgb(60, 8, 248);
+    color: #ebecec;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    margin-left: 200px;
+    
+}
