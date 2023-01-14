@@ -5,13 +5,17 @@
     font-family: 'Bakbak One', cursive;
 }
 .cat{
-    height: 800px;
+    height: 500px;
     background-image: url(person.png);
     background-repeat: no-repeat;
+    background-size: 400px;
+    margin: 100px 0px 0px 300px;
 
 }
 .docu{
-    margin: 200px 40px 0px 700px;
+    margin: 100px 40px 0px 400px;
+    padding: 100px;
+    
 }
 .docu h1{
 color: blue;
@@ -19,16 +23,18 @@ color: blue;
 .docu p{
     color: red;
     padding-right: 300px;
+    text-align: justify;
     
 }
 .docu a{
     border: 1px solid rgb(49, 9, 228);
-    border-radius: 3px;
+    border-radius: 10px;
     background-color: rgb(60, 8, 248);
     color: #ebecec;
     text-decoration: none;
     font-size: 20px;
     padding: 5px 20px;
-    margin-left: 200px;
+    margin-left: 100px;
+    align-items: center;
     
 }
